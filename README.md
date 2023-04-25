@@ -1,1 +1,111 @@
 # recon-resource
+- https://blog.projectdiscovery.io/reconnaissance-series-5-additional-active-reconnaissance/
+- https://twitter.com/ReconOne_bk/status/1642431028470874116?t=NSn9iile3U4Il4UiV9ai5Q&s=08
+- https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/?ref=blog.projectdiscovery.io
+- https://bugbountyforum.com/tools/recon/
+- https://thecyberblogs.com/the-bug-hunters-methodology-v4-recon-tbhmv4/
+- https://eslam3kl.gitbook.io/blog/recon-automation-tips-and-tricks/simple-recon-methodology
+
+- https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
+- https://orwaatyat.medium.com/
+- https://web.archive.org/web/20221209143311/https://twitter.com/GodfatherOrwa
+- https://doepichack.com/category/tips/
+- https://blog.intigriti.com/2023/01/18/bug-bytes-190-bbtips-attacking-wide-scopes-aws-and-containers/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_190_bbtips_attacking_wide_scopes_aws_and_containers&utm_term=2023-01-18
+- https://portswigger.net/research/top-10-web-hacking-techniques-of-2022-nominations-open
+- https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html
+- https://eforensicsmag.com/bug-bounty-methodology-ttp-tacticstechniques-and-procedures-v-2-0/
+- [How To Attack Admin Panels Successfully Part 2](https://medium.com/geekculture/how-to-attack-admin-panels-successfully-part-2-9316c3caad3a)
+-   [Open redirects : bug bounties](https://falkensmaze.medium.com/open-redirects-bug-bounties-28efffb635c?source=rss------bug_bounty-5)
+-   [Seven Common Ways To Bypass Login Page](https://medium.com/@uttamgupta_/seven-common-ways-to-bypass-login-page-a023d9dd073c?source=rss------bug_bounty-5)
+-   [Unlock the boundless possibilities of ChatGPT: Hunt down pesky bugs and enjoy seamless automation!](https://hunkyhack3r.medium.com/unlock-the-boundless-possibilities-of-chatgpt-hunt-down-pesky-bugs-and-enjoy-seamless-automation-21ecfdf472cd?source=rss------bug_bounty-5)
+-   [Broken Access Control: What I have learned](https://juliosergiofs.medium.com/broken-access-control-what-i-have-learned-1223874179cd?source=rss------bug_bounty-5)
+-   [Bug Hunting 101: Parameter Injection Vulnerabilities](https://grahamzemel.medium.com/bug-hunting-101-parameter-injection-vulnerabilities-bedab284b4d9?source=rss------bug_bounty-5)
+-   [JWT Security 101: How to defend against common attacks on JSON Web Tokens](https://medium.com/@mk2011sharma/jwt-security-101-how-to-defend-against-common-attacks-on-json-web-tokens-632fa09d8887?source=rss------bug_bounty-5)
+-  https://medium.com/@TheUnwearyPentester/brute-force-attacks-cheat-sheet-ftp-pop3-snmp-ssh-vnc-f8f37cfe4ec?source=rss------bug_bounty-5
+-   https://infosecwriteups.com/clear-communication-is-crucial-why-writing-effective-vulnerability-reports-matters-5f989ee2e401?source=rss----7b722bfd1b8d---4
+-   https://sl4x0.medium.com/all-about-business-logic-bugs-803fa0df9eb4?source=rss------bug_bounty-5
+-  https://adamjsturge.medium.com/easy-xsshunter-express-setup-script-d5a66039f7b6?source=rss------bug_bounty-5
+-   https://thegrayarea.tech/bug-hunting-101-directory-enumeration-authentication-bypass-1b92b3c87ef9?source=rss------bug_bounty-5
+-  https://infosecwriteups.com/kerberos-authentication-again-but-better-badb5dc88b2d?source=rss----7b722bfd1b8d---4
+-   https://infosecwriteups.com/bypass-mysql-real-escape-string-and-addslashes-from-injection-attacks-6e64508e011b?source=rss----7b722bfd1b8d---4
+-   https://infosecwriteups.com/domain-name-system-0x1-dns-101-cb0aba088abb?source=rss----7b722bfd1b8d---4
+-  https://infosecwriteups.com/the-toddlers-introduction-to-dynamic-memory-allocation-300f312cd2db?source=rss----7b722bfd1b8d---4
+-   https://web3datadegens.substack.com/p/2023-guide-to-web3-data-tools
+-   https://jakewnuk.com/posts/optimizing-wordlists-w-masks/
+-   https://infosecwriteups.com/how-i-found-aws-api-keys-using-trufflehog-and-validated-them-using-enumerate-iam-tool-cd6ba7c86d09?source=rss----7b722bfd1b8d---4
+- https://rashahacks.com/how-i-pwned-10-admin-panels-and-rewarded-8000/
+- https://pentester.land/blog/subdomains-enumeration-cheatsheet/
+- https://github.com/supr4s/VPS-web-hacking-tools
+- https://github.com/0xJin/awesome-bugbounty-builder
+- https://reconshell.com/bug-bounty-tips/
+- https://reconshell.com/bug-bounty-resources/
+- https://0xffsec.com/handbook/information-gathering/subdomain-enumeration/
+- https://lazyhacker.medium.com/subdomain-enumeration-tec-276da39d7e69
+- https://reconshell.com/web-attack-cheat-sheet/
+- https://techvomit.net/web-application-penetration-testing-notes/
+- https://edoverflow.com/2017/lightweight-reconnaissance-setup/
+- https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/
+- https://github.com/zapstiko/Bug-Bounty
+- https://highon.coffee/blog/password-reset-security-testing-cheat-sheet/
+- https://github.com/Mostafa-Elguerdawi/Automation_Bug_Hunting/tree/main/Automation
+- https://www.infosecmatter.com/bug-bounty-tips/
+- https://inonst.medium.com/31-tips-advanced-bug-bounty-pentesting-8ecec2aafffe
+- https://cheatsheet.haax.fr/web-pentest/bug_bounty_tips/
+- https://www.pinterest.com/thehackerish/bug-bounty/
+- https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/
+- https://github.com/topics/bugbountytips
+- https://mavericknerd.github.io/knowledgebase/BugBountyRecon/
+- https://shubs.io/so-you-want-to-get-into-bug-bounties/
+- https://rattibha.com/thread/1590657312280436738?lang=ar
+- https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/
+-   [A few dorks to find common bugs while testing](https://twitter.com/ADITYASHENDE17/status/1613423367448821762?s=20)
+-   [OWA tip](https://twitter.com/irsdl/status/1613702363587436547?s=20)
+-   [Top 10 web hacking techniques of 2022 voting](https://portswigger.net/polls/top-10-web-hacking-techniques-2022)
+-   [TodayIsNew Interview with his tips](https://twitter.com/Bugcrowd/status/1612874185465892865)
+-   [Recon management tips by Jason Haddix](https://twitter.com/Jhaddix/status/1615453280015982593?s=20)
+-   [PHP info page pays out $5k](https://twitter.com/SaraBadran18/status/1615347898392117249?s=20)
+-   [Custom wordlists tip](https://twitter.com/dsopas/status/1613886178524106756?s=20)
+-   [SQL injection payloads](https://twitter.com/nav1n0x/status/1613225462154596375?s=20)
+- https://reconshell.com/bug-bounty-tips/
+- https://blog.yeswehack.com/yeswerhackers/parameter-discovery-quick-guide-to-start/
+- https://yogosha.com/blog/bug-bounty-practical-guide-for-organizations/
+- https://www.cyberick.com/post/recon-automation-tips-bug-bounty
+- https://www.bugbountyclub.com/tips
+- https://infosecsanyam.medium.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2
+- https://agent472458.medium.com/my-recon-tools-and-methodology-17abf8080f3c
+- https://infosecwriteups.com/recon-everything-48aafbb8987
+- https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949
+- https://apexvicky.medium.com/bug-bounty-methodology-horizontal-enumeration-89f7cd172e6e
+- https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21
+- https://fyrmassociates.com/blog/2019/03/01/advanced-recon-part1/
+- https://www.bugbountyhunter.com/articles/?on=Advanced_Recon
+- https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html
+- https://community.turgensec.com/shodan-pentesting-guide/
+- https://seqred.pl/en/shodan-improved/
+- https://docs.servicenow.com/pt-BR/bundle/sandiego-security-management/page/product/secops-integration-vr/shodan/concept/shodan-exploit-vuln-integration.html
+- https://pentester.land/blog/levelup-2018-the-bug-hunters-methodology-v3/
+- https://0x00sec.org/t/using-search-engines-for-fun-and-bounties/23832
+- https://null-byte.wonderhowto.com/how-to/hack-like-pro-find-vulnerable-targets-using-shodan-the-worlds-most-dangerous-search-engine-0154576/
+- https://securitytrails.com/blog/hacker-search-engines
+- https://null-byte.wonderhowto.com/how-to/hack-like-pro-reconnaissance-with-recon-ng-part-1-getting-started-0169854/
+- https://infosecwriteups.com/guide-to-basic-recon-bug-bounties-recon-728c5242a115
+- https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd
+- https://blog.zsec.uk/ltr101-method-to-madness/
+- https://github.com/bugcrowd/bugcrowd_university/blob/master/Recon%20and%20Discovery/Bugcrowd%20University%20-%20Recon%20%26%20Discovery.pdf
+- https://medium.com/@maverickNerd/recon-everything-48aafbb8987
+- https://mavericknerd.github.io/knowledgebase/
+- https://blog.detectify.com/2020/01/07/guest-blog-streaak-my-recon-techniques-from-2019/
+- https://medium.com/@europa_/recoinnassance-7840824b9ef2
+- https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21
+- https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d
+- https://bugbountytuts.files.wordpress.com/2018/02/dirty-recon.pdf
+- https://blog.usejournal.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2
+- http://imsoley.tk/mofb/
+- https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/
+- https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g3fc0937313_1_68
+- https://sylarsec.com/2019/01/11/100-ways-to-discover-part-1/
+- https://captmeelo.com/bugbounty/2019/09/02/asset-enumeration.html
+- https://medium.com/@shahjerry33/recon-my-way-or-high-way-58a18dab5c95
+- https://medium.com/@smhtahsin33/recon-one-step-advanced-with-otx-8827119566fd
+- https://eslam3kl.medium.com/simple-recon-methodology-920f5c5936d4
+- https://systemweakness.com/ultimate-manual-bug-bounty-recon-guide-f30c900367c8
