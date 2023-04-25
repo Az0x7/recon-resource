@@ -1,5 +1,5 @@
 # recon-resource
-THis is all articles talk about how to do recon enjoy reading:
+This is all articles talk about how to do recon enjoy reading:
 - https://blog.projectdiscovery.io/reconnaissance-series-5-additional-active-reconnaissance/
 - https://twitter.com/ReconOne_bk/status/1642431028470874116?t=NSn9iile3U4Il4UiV9ai5Q&s=08
 - https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/?ref=blog.projectdiscovery.io
